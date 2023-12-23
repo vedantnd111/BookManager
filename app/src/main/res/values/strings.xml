@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BooksManagementSystem</string>
+    <string name="add_a_book">Add a Book</string>
+    <string name="list_of_books">List of Books</string>
+</resources>
